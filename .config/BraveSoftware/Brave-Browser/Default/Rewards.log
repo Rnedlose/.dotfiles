@@ -1,0 +1,86 @@
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 1
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 2
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 3
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 4
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 5
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 6
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 7
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 8
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 9
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 10
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 11
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 12
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 13
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 14
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 15
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 16
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 17
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 18
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 19
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 20
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 21
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 22
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 23
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 24
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 25
+[Jul 22, 2020, 11:06:53.4 AM:INFO:database_migration.cc(77)] DB: Migrated to version 26
+[Jul 22, 2020, 11:06:53.4 AM:INFO:state_migration_v1.cc(39)] No publisher state
+[Jul 22, 2020, 11:06:53.4 AM:INFO:state_migration.cc(72)] State: Migrated to version 1
+[Jul 22, 2020, 11:06:53.4 AM:INFO:state_migration_v2.cc(40)] No ledger state
+[Jul 22, 2020, 11:06:53.4 AM:INFO:state_migration.cc(72)] State: Migrated to version 2
+[Jul 22, 2020, 11:06:53.4 AM:INFO:contribution.cc(264)] Timer will start in 2592000
+[Jul 22, 2020, 11:06:53.4 AM:INFO:contribution.cc(264)] Timer will start in 14
+[Jul 22, 2020, 11:06:53.4 AM:INFO:promotion.cc(95)] Migrating corrupted promotions
+[Jul 22, 2020, 11:06:53.4 AM:INFO:recovery.cc(14)] Running empty balance check...
+[Jul 22, 2020, 11:06:53.5 AM:INFO:database_contribution_info_publishers.cc(321)] Contribution ids is empty
+[Jul 22, 2020, 11:06:53.5 AM:INFO:promotion.cc(558)] Promotion is empty
+[Jul 22, 2020, 11:06:53.5 AM:INFO:database_contribution_info_publishers.cc(321)] Contribution ids is empty
+[Jul 22, 2020, 11:06:53.5 AM:INFO:recovery_empty_balance.cc(116)] Creds batch list is emtpy
+--------------------------------------------------------------------------------
+[Jul 22, 2020, 11:07:46.9 AM:INFO:contribution.cc(264)] Timer will start in 2591947
+[Jul 22, 2020, 11:07:46.9 AM:INFO:contribution.cc(264)] Timer will start in 2
+[Jul 22, 2020, 11:07:46.9 AM:INFO:promotion.cc(95)] Migrating corrupted promotions
+[Jul 22, 2020, 11:07:46.9 AM:INFO:database_contribution_info_publishers.cc(321)] Contribution ids is empty
+[Jul 22, 2020, 11:07:46.9 AM:INFO:promotion.cc(558)] Promotion is empty
+--------------------------------------------------------------------------------
+[Jul 22, 2020, 12:03:02.3 PM:INFO:contribution.cc(264)] Timer will start in 2588631
+[Jul 22, 2020, 12:03:02.4 PM:INFO:contribution.cc(264)] Timer will start in 4
+[Jul 22, 2020, 12:03:02.4 PM:INFO:promotion.cc(95)] Migrating corrupted promotions
+[Jul 22, 2020, 12:03:02.4 PM:INFO:database_contribution_info_publishers.cc(321)] Contribution ids is empty
+[Jul 22, 2020, 12:03:02.4 PM:INFO:promotion.cc(558)] Promotion is empty
+--------------------------------------------------------------------------------
+[Jul 22, 2020, 10:05:28.4 PM:INFO:contribution.cc(264)] Timer will start in 2552485
+[Jul 22, 2020, 10:05:28.4 PM:INFO:contribution.cc(264)] Timer will start in 26
+[Jul 22, 2020, 10:05:28.4 PM:INFO:promotion.cc(95)] Migrating corrupted promotions
+[Jul 22, 2020, 10:05:28.4 PM:INFO:database_contribution_info_publishers.cc(321)] Contribution ids is empty
+[Jul 22, 2020, 10:05:28.4 PM:INFO:promotion.cc(558)] Promotion is empty
+--------------------------------------------------------------------------------
+[Jul 22, 2020, 10:19:54.1 PM:INFO:contribution.cc(264)] Timer will start in 2551619
+[Jul 22, 2020, 10:19:54.1 PM:INFO:contribution.cc(264)] Timer will start in 19
+[Jul 22, 2020, 10:19:54.1 PM:INFO:promotion.cc(95)] Migrating corrupted promotions
+[Jul 22, 2020, 10:19:54.1 PM:INFO:database_contribution_info_publishers.cc(321)] Contribution ids is empty
+[Jul 22, 2020, 10:19:54.1 PM:INFO:promotion.cc(558)] Promotion is empty
+--------------------------------------------------------------------------------
+[Jul 22, 2020, 10:38:31.2 PM:INFO:contribution.cc(264)] Timer will start in 2550502
+[Jul 22, 2020, 10:38:31.3 PM:INFO:contribution.cc(264)] Timer will start in 8
+[Jul 22, 2020, 10:38:31.3 PM:INFO:promotion.cc(95)] Migrating corrupted promotions
+[Jul 22, 2020, 10:38:31.3 PM:INFO:database_contribution_info_publishers.cc(321)] Contribution ids is empty
+[Jul 22, 2020, 10:38:31.3 PM:INFO:promotion.cc(558)] Promotion is empty
+--------------------------------------------------------------------------------
+[Jul 22, 2020, 10:41:43.8 PM:INFO:contribution.cc(264)] Timer will start in 2550310
+[Jul 22, 2020, 10:41:43.8 PM:INFO:contribution.cc(264)] Timer will start in 24
+[Jul 22, 2020, 10:41:43.8 PM:INFO:promotion.cc(95)] Migrating corrupted promotions
+[Jul 22, 2020, 10:41:43.8 PM:INFO:database_contribution_info_publishers.cc(321)] Contribution ids is empty
+[Jul 22, 2020, 10:41:43.8 PM:INFO:promotion.cc(558)] Promotion is empty
+--------------------------------------------------------------------------------
+[Jul 22, 2020, 10:51:54.5 PM:INFO:contribution.cc(264)] Timer will start in 2549699
+[Jul 22, 2020, 10:51:54.5 PM:INFO:contribution.cc(264)] Timer will start in 12
+[Jul 22, 2020, 10:51:54.5 PM:INFO:promotion.cc(95)] Migrating corrupted promotions
+[Jul 22, 2020, 10:51:54.5 PM:INFO:database_contribution_info_publishers.cc(321)] Contribution ids is empty
+[Jul 22, 2020, 10:51:54.5 PM:INFO:promotion.cc(558)] Promotion is empty
+--------------------------------------------------------------------------------
+[Jul 22, 2020, 10:54:26.0 PM:INFO:contribution.cc(264)] Timer will start in 2549547
+[Jul 22, 2020, 10:54:26.0 PM:INFO:contribution.cc(264)] Timer will start in 19
+[Jul 22, 2020, 10:54:26.0 PM:INFO:promotion.cc(95)] Migrating corrupted promotions
+[Jul 22, 2020, 10:54:26.0 PM:INFO:database_contribution_info_publishers.cc(321)] Contribution ids is empty
+[Jul 22, 2020, 10:54:26.0 PM:INFO:promotion.cc(558)] Promotion is empty

@@ -1,0 +1,806 @@
+{
+   "checksum": "24412e8f45701e474e6d102bc0e67ee6",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13193257671000000",
+               "guid": "4e6a9a72-673a-4d94-be44-662894bb2145",
+               "id": "6",
+               "name": "Inbox - rodney@aleasylum.com - Ale Asylum Mail",
+               "type": "url",
+               "url": "https://mail.google.com/mail/u/1/#inbox"
+            }, {
+               "date_added": "13193259928000000",
+               "guid": "5936f338-1ce5-4504-899c-b3c429471344",
+               "id": "7",
+               "name": "Ale Asylum - Calendar - January 2019",
+               "type": "url",
+               "url": "https://calendar.google.com/calendar/b/1/r?pli=1&t=AKUaPmbJzOjJMFP1tHoJ9earK2ccKZf9I5EfidgR5zSHaWEwo3XO4jbi_fmvsa2k5VRRGUDP7JARuOJ3NQTiD4bw2B5pT10S1w%3D%3D"
+            }, {
+               "date_added": "13193266873000000",
+               "guid": "37c24106-26a9-4163-8442-7ab083b704a0",
+               "id": "8",
+               "name": "Google Drive",
+               "type": "url",
+               "url": "https://drive.google.com/drive/u/1/my-drive"
+            }, {
+               "date_added": "13194126888000000",
+               "guid": "37d70dc7-5487-4062-af37-f3857ad91a2c",
+               "id": "9",
+               "name": "Square Dashboard",
+               "type": "url",
+               "url": "https://squareup.com/dashboard/"
+            }, {
+               "date_added": "13195163430000000",
+               "guid": "50ff1027-869c-4fd9-b575-de60a3cc632a",
+               "id": "10",
+               "name": "March Madness 2019 dates and schedule | NCAA.com",
+               "type": "url",
+               "url": "https://www.ncaa.com/news/basketball-men/march-madness-dates-tournament-schedule"
+            } ],
+            "date_added": "13239907731455839",
+            "date_modified": "0",
+            "guid": "d9c2c478-5056-490b-b981-0a03ecb40945",
+            "id": "5",
+            "name": "Work",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13186555403000000",
+               "guid": "0f52fda8-bdf7-4762-93fb-dd61815049d2",
+               "id": "12",
+               "name": "Python Variables",
+               "type": "url",
+               "url": "https://www.w3schools.com/python/python_variables.asp"
+            }, {
+               "date_added": "13183831773000000",
+               "guid": "2a67ab27-2606-4e10-8d66-bec6f22e30e0",
+               "id": "13",
+               "name": "CSE 390 Bash Command Reference",
+               "type": "url",
+               "url": "https://courses.cs.washington.edu/courses/cse391/16sp/bash.html"
+            }, {
+               "date_added": "13187385373000000",
+               "guid": "8fd4c7dd-9170-4486-8ccd-3cb1137c04cd",
+               "id": "14",
+               "name": "Fix Grub Not Showing For Windows 10 Linux Dual Boot | It's FOSS",
+               "type": "url",
+               "url": "https://itsfoss.com/no-grub-windows-linux/"
+            }, {
+               "date_added": "13187387788000000",
+               "guid": "ef857a9b-8c1f-46d0-8b1a-422ece85948c",
+               "id": "15",
+               "name": "How To Improve Battery Life On Linux Laptops",
+               "type": "url",
+               "url": "https://www.addictivetips.com/ubuntu-linux-tips/improve-battery-life-on-linux/"
+            }, {
+               "date_added": "13187507848000000",
+               "guid": "19f84cdd-086a-4ab1-aec9-74d1a3992949",
+               "id": "16",
+               "name": "GitHub - robbyrussell/oh-my-zsh: A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spi",
+               "type": "url",
+               "url": "https://github.com/robbyrussell/oh-my-zsh"
+            }, {
+               "date_added": "13203480667000000",
+               "guid": "324e7e32-ea36-454e-99b9-6cb164e55807",
+               "id": "17",
+               "name": "GitHub",
+               "type": "url",
+               "url": "https://github.com/"
+            }, {
+               "date_added": "13206060610000000",
+               "guid": "f7cee01e-da9b-46ef-9730-04066753b29e",
+               "id": "18",
+               "name": "It's FOSS",
+               "type": "url",
+               "url": "https://itsfoss.com/"
+            }, {
+               "date_added": "13206071914000000",
+               "guid": "6a407b8c-c8a2-4c6d-a074-f86e6cc22389",
+               "id": "19",
+               "name": "powerline/fonts: Patched fonts for Powerline users.",
+               "type": "url",
+               "url": "https://github.com/powerline/fonts"
+            }, {
+               "date_added": "13206071922000000",
+               "guid": "eb0283b0-6c7a-4a7c-a9c1-dafe1754a1c2",
+               "id": "20",
+               "name": "Oh My Zsh - a delightful & open source framework for Z-Shell",
+               "type": "url",
+               "url": "https://ohmyz.sh/"
+            }, {
+               "date_added": "13206071928000000",
+               "guid": "572a596f-f3ba-40c2-bd47-fa81f4adab3c",
+               "id": "21",
+               "name": "Installing ZSH · robbyrussell/oh-my-zsh Wiki",
+               "type": "url",
+               "url": "https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH"
+            }, {
+               "date_added": "13206071947000000",
+               "guid": "2b57ce5f-ed57-40e3-820f-ac207d2a9349",
+               "id": "22",
+               "name": "External themes · robbyrussell/oh-my-zsh Wiki",
+               "type": "url",
+               "url": "https://github.com/robbyrussell/oh-my-zsh/wiki/External-themes"
+            }, {
+               "date_added": "13206523775000000",
+               "guid": "ee2423ce-f733-4ac0-86e8-f635f47fed15",
+               "id": "23",
+               "name": "CodeBuddies | Home",
+               "type": "url",
+               "url": "https://codebuddies.org/"
+            }, {
+               "date_added": "13206523796000000",
+               "guid": "77b555e0-7414-4f68-8f16-435ba154b5fc",
+               "id": "24",
+               "name": "codebuddies/codebuddies: CodeBuddies.org: Community-organized hangouts for learning programming together - community-built using MeteorJS",
+               "type": "url",
+               "url": "https://github.com/codebuddies/codebuddies"
+            }, {
+               "date_added": "13207588892000000",
+               "guid": "3113a482-d76f-43a8-9ae1-f784f05e7d2a",
+               "id": "25",
+               "name": "phw/peek: Simple animated GIF screen recorder with an easy to use interface",
+               "type": "url",
+               "url": "https://github.com/phw/peek#ubuntu"
+            }, {
+               "date_added": "13210237248000000",
+               "guid": "749436e8-ca84-4589-b592-49cdd59a5a82",
+               "id": "26",
+               "name": "i3: i3 User’s Guide",
+               "type": "url",
+               "url": "https://i3wm.org/docs/userguide.html"
+            }, {
+               "date_added": "13182147749000000",
+               "guid": "092509d9-d675-46da-a234-7cbddb46afa0",
+               "id": "27",
+               "name": "Ubuntu Wiki (community-edited website)",
+               "type": "url",
+               "url": "http://wiki.ubuntu.com/"
+            }, {
+               "date_added": "13182147749000000",
+               "guid": "6687e841-82e4-42b9-9c40-fb9038b985a2",
+               "id": "28",
+               "name": "Ubuntu",
+               "type": "url",
+               "url": "http://www.ubuntu.com/"
+            }, {
+               "date_added": "13182150661000000",
+               "guid": "66f1c9e8-2ab2-48bb-ba1e-6c18adf87e80",
+               "id": "29",
+               "name": "13 Keyboard Shortcut Every Ubuntu 18.04 User Should Know | It's FOSS",
+               "type": "url",
+               "url": "https://itsfoss.com/ubuntu-shortcuts/"
+            }, {
+               "date_added": "13182150690000000",
+               "guid": "bddf9a25-36bb-4ad7-983c-fe2bf49ea216",
+               "id": "30",
+               "name": "20 Things to do After Installing Ubuntu 18.04 Bionic Beaver | It's FOSS",
+               "type": "url",
+               "url": "https://itsfoss.com/things-to-do-after-installing-ubuntu-18-04/"
+            }, {
+               "date_added": "13187385373000000",
+               "guid": "d3225541-52b7-45c8-b688-bd92545612b3",
+               "id": "31",
+               "name": "Install and Configure Samba | Ubuntu tutorials",
+               "type": "url",
+               "url": "https://tutorials.ubuntu.com/tutorial/install-and-configure-samba#3"
+            }, {
+               "date_added": "13206166902000000",
+               "guid": "3de862db-e5c2-4735-8cde-126ac368bbab",
+               "id": "32",
+               "name": "How to Install and Remove Software in Manjaro Linux - It's FOSS",
+               "type": "url",
+               "url": "https://itsfoss.com/install-remove-software-manjaro/"
+            }, {
+               "date_added": "13206209635000000",
+               "guid": "c5809eec-f05e-437a-9432-9c3344827c53",
+               "id": "33",
+               "name": "10 Things To Do After Installing Ubuntu 19.04 - OMG! Ubuntu!",
+               "type": "url",
+               "url": "https://www.omgubuntu.co.uk/2019/04/things-to-do-after-installing-ubuntu-1904"
+            }, {
+               "date_added": "13206346095000000",
+               "guid": "2c1fff4e-ab9a-4946-89fe-e42737ee2dc3",
+               "id": "34",
+               "name": "Android fundamentals 01.1: Android Studio and Hello World",
+               "type": "url",
+               "url": "https://codelabs.developers.google.com/codelabs/android-training-hello-world/index.html?index=..%2F..%2Fandroid-training#4"
+            }, {
+               "date_added": "13206727313000000",
+               "guid": "6f16b675-53c9-4a61-917e-e6fcdb07d44c",
+               "id": "35",
+               "name": "How to Use GNOME Shell Extensions [Complete Guide] - It's FOSS",
+               "type": "url",
+               "url": "https://itsfoss.com/gnome-shell-extensions/"
+            }, {
+               "date_added": "13207001855000000",
+               "guid": "e9782623-9404-4286-a271-af7ce3e90ff4",
+               "id": "36",
+               "name": "My Linux Development Environment of 2018 - DEV Community 👩‍💻👨‍💻",
+               "type": "url",
+               "url": "https://dev.to/brpaz/my-linux-development-environment-of-2018-ch7"
+            }, {
+               "date_added": "13207551868000000",
+               "guid": "96ce199e-1cc5-46d2-abc0-23d8917277be",
+               "id": "37",
+               "name": "Install python 3.7 on MX Linux 18.1",
+               "type": "url",
+               "url": "https://gist.github.com/agatsoh/3c206212f806a3aac98dd9a2c7237a0c"
+            }, {
+               "date_added": "13207982863000000",
+               "guid": "3f0d3335-4cc8-4562-b179-aab9f1bd1ee0",
+               "id": "38",
+               "name": "Bug #1722478 “Two-finger scrolling no longer works after resumin...” : Bugs : linux package : Ubuntu",
+               "type": "url",
+               "url": "https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1722478"
+            }, {
+               "date_added": "13211268265000000",
+               "guid": "94510ffc-1e4d-4777-9f11-09cb7073615c",
+               "id": "39",
+               "name": "OCS-Store - pling.com",
+               "type": "url",
+               "url": "https://www.pling.com/p/1175480/"
+            }, {
+               "date_added": "13211820854000000",
+               "guid": "8b40044c-f014-4ba3-a03e-293162702f13",
+               "id": "40",
+               "name": "Activity Diagram syntax and features",
+               "type": "url",
+               "url": "http://plantuml.com/activity-diagram-legacy"
+            }, {
+               "date_added": "13211820872000000",
+               "guid": "e9066110-05f0-47c4-9c3c-d91599314d4c",
+               "id": "41",
+               "name": "New Activity Diagram Beta syntax and features",
+               "type": "url",
+               "url": "http://plantuml.com/activity-diagram-beta"
+            }, {
+               "date_added": "13211821257000000",
+               "guid": "529f1b1d-6e97-49f4-a946-bb8ce13359ea",
+               "id": "42",
+               "name": "Keyboard Shortcuts ⋅ Pop!_OS by System76",
+               "type": "url",
+               "url": "https://pop.system76.com/docs/keyboard-shortcuts/"
+            }, {
+               "date_added": "13212478844000000",
+               "guid": "ce65b32a-ebc0-4edb-82d7-7b7be00e27e8",
+               "id": "43",
+               "name": "Essential things to do after install Manjaro 17 (Gnome)",
+               "type": "url",
+               "url": "https://medium.com/@thiago.reis/essential-things-to-do-after-install-manjaro-17-gnome-89386a16dd93"
+            }, {
+               "date_added": "13212646415000000",
+               "guid": "33c117f0-157f-43d5-af56-1f450672859f",
+               "id": "44",
+               "name": "Visual Studio Code - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/index.php/Visual_Studio_Code"
+            }, {
+               "date_added": "13212806581000000",
+               "guid": "0d47d7e3-8706-4ea1-962b-339db1c25f21",
+               "id": "45",
+               "name": "polybar/polybar: A fast and easy-to-use status bar",
+               "type": "url",
+               "url": "https://github.com/polybar/polybar"
+            }, {
+               "date_added": "13213074009000000",
+               "guid": "2e130f33-1344-4e09-9d05-2535ec03f1f5",
+               "id": "46",
+               "name": "The List of Windows Software You Should Be Using - Jason Charney - Medium",
+               "type": "url",
+               "url": "https://medium.com/@jrcharney/the-list-of-windows-software-you-should-be-using-65aaf387bbdf"
+            }, {
+               "date_added": "13215837148000000",
+               "guid": "93373d2c-6949-47f2-a537-37cccfc0504f",
+               "id": "47",
+               "name": "Clean Up Windows 10 | 3 Steps for a Healthy System",
+               "type": "url",
+               "url": "https://www.christitus.com/clean-up-windows-10/"
+            }, {
+               "date_added": "13215837148000000",
+               "guid": "b30b56e1-c73d-456f-b768-26622fa07d05",
+               "id": "48",
+               "name": "Clean Up Windows 10 | 3 Steps for a Healthy System",
+               "type": "url",
+               "url": "https://www.christitus.com/clean-up-windows-10/"
+            }, {
+               "date_added": "13236680042000000",
+               "guid": "046c3641-e1c9-4d04-b524-f5af2bba1bc6",
+               "id": "49",
+               "name": "i3 documentation",
+               "type": "url",
+               "url": "https://classicforum.manjaro.org/index.php?topic=24974.0"
+            }, {
+               "date_added": "13236680240000000",
+               "guid": "b4c4af82-a403-443a-90b2-6d797bc53936",
+               "id": "50",
+               "name": "i3: i3 User’s Guide",
+               "type": "url",
+               "url": "https://i3wm.org/docs/userguide.html#configuring"
+            }, {
+               "date_added": "13236680533000000",
+               "guid": "8c0d44a2-54f2-421a-adbf-49cae14f202c",
+               "id": "51",
+               "name": "i3: i3 User’s Guide",
+               "type": "url",
+               "url": "https://i3wm.org/docs/userguide.html#multi_monitor"
+            }, {
+               "date_added": "13236664768000000",
+               "guid": "c5fc8234-0855-4b39-90f7-938bc9f9d027",
+               "id": "52",
+               "name": "Need help with i3 on tripple Screen Configuration : i3wm",
+               "type": "url",
+               "url": "https://www.reddit.com/r/i3wm/comments/6280u3/need_help_with_i3_on_tripple_screen_configuration/"
+            } ],
+            "date_added": "13239907731456399",
+            "date_modified": "0",
+            "guid": "06a54fcb-bd99-4dd3-84ad-559322fb8f95",
+            "id": "11",
+            "name": "Open Source",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13181508648000000",
+                  "guid": "ecd7211d-3c08-4611-82bd-618c02c0e46f",
+                  "id": "55",
+                  "name": "Maps",
+                  "type": "url",
+                  "url": "https://maps.google.com/"
+               }, {
+                  "date_added": "13181508648000000",
+                  "guid": "56ca7683-9821-4f8b-b18a-045f941f0a73",
+                  "id": "56",
+                  "name": "Translate",
+                  "type": "url",
+                  "url": "https://translate.google.com/"
+               }, {
+                  "date_added": "13181508648000000",
+                  "guid": "5592cdef-6e33-449f-b05d-85ade02baba3",
+                  "id": "57",
+                  "name": "News",
+                  "type": "url",
+                  "url": "https://news.google.com/"
+               }, {
+                  "date_added": "13181508648000000",
+                  "guid": "c13859a7-5fb1-413d-88f8-f6ac6f47c44a",
+                  "id": "58",
+                  "name": "Chrome Web Store",
+                  "type": "url",
+                  "url": "https://chrome.google.com/webstore"
+               }, {
+                  "date_added": "13181508648000000",
+                  "guid": "db6ac745-ad13-4543-a2bf-7785c9d7f77c",
+                  "id": "59",
+                  "name": "Google",
+                  "type": "url",
+                  "url": "http://www.google.com/"
+               }, {
+                  "date_added": "13181508648000000",
+                  "guid": "756fa65a-e022-4661-b176-2ab76feba2e9",
+                  "id": "60",
+                  "name": "Gmail",
+                  "type": "url",
+                  "url": "https://gmail.com/"
+               } ],
+               "date_added": "13239907731457687",
+               "date_modified": "0",
+               "guid": "2957becf-73d2-4b17-af20-14d715f1a12d",
+               "id": "54",
+               "name": "Google",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13187506910000000",
+                  "guid": "dca8c430-6e45-4199-9da9-34b09f348f40",
+                  "id": "62",
+                  "name": "Julien Danjou",
+                  "type": "url",
+                  "url": "https://julien.danjou.info/"
+               }, {
+                  "date_added": "13187506829000000",
+                  "guid": "763b83c7-2bbc-4ca9-af5b-57dcfc3a4dcb",
+                  "id": "63",
+                  "name": "Starting your first Python project",
+                  "type": "url",
+                  "url": "https://julien.danjou.info/starting-your-first-python-project/"
+               } ],
+               "date_added": "13239907731457792",
+               "date_modified": "0",
+               "guid": "1d9e7ab8-2e5e-4ee8-81a7-581539bc8d24",
+               "id": "61",
+               "name": "Blogs",
+               "type": "folder"
+            }, {
+               "date_added": "13181508648000000",
+               "guid": "e6567d9e-63b2-4af7-a076-9970708de8c9",
+               "id": "64",
+               "name": "Instagram",
+               "type": "url",
+               "url": "http://instagram.com/"
+            }, {
+               "date_added": "13181508648000000",
+               "guid": "003987a3-c39b-4ae2-9f34-6e69610a64a2",
+               "id": "65",
+               "name": "Reddit",
+               "type": "url",
+               "url": "https://www.reddit.com/"
+            }, {
+               "date_added": "13181508648000000",
+               "guid": "3183b488-5ca4-4e29-a909-7b66358d9979",
+               "id": "66",
+               "name": "Facebook",
+               "type": "url",
+               "url": "https://www.facebook.com/"
+            }, {
+               "date_added": "13181508648000000",
+               "guid": "6d4502f8-c6c3-4c58-9226-018b5ca3bb91",
+               "id": "67",
+               "name": "Twitter",
+               "type": "url",
+               "url": "https://twitter.com/"
+            }, {
+               "date_added": "13181508648000000",
+               "guid": "e65f9d28-e96f-4f1d-9cda-8abab73b74a3",
+               "id": "68",
+               "name": "Craigslist",
+               "type": "url",
+               "url": "https://madison.craigslist.org/"
+            }, {
+               "date_added": "13181508648000000",
+               "guid": "41dc1cd8-2dc5-41c8-84c6-00a703af1d09",
+               "id": "69",
+               "name": "The Verge",
+               "type": "url",
+               "url": "https://www.theverge.com/"
+            } ],
+            "date_added": "13239907731457578",
+            "date_modified": "0",
+            "guid": "b524d818-6ca1-477a-a61b-e6a4e838f5be",
+            "id": "53",
+            "name": "Favs",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13181681205000000",
+               "guid": "ea1b892f-d24c-4481-8a42-e9926cbcf500",
+               "id": "71",
+               "name": "StPort",
+               "type": "url",
+               "url": "https://portal.rasmussen.edu/"
+            }, {
+               "date_added": "13181679168000000",
+               "guid": "a72ff1ad-e8e0-47a8-97cf-4eca0ac5e136",
+               "id": "72",
+               "name": "StSucGd",
+               "type": "url",
+               "url": "https://guides.rasmussen.edu/studentsuccessguide"
+            }, {
+               "date_added": "13181679933000000",
+               "guid": "cf2b55fc-c11b-49d8-a076-7b44a20bbdab",
+               "id": "73",
+               "name": "DigCont",
+               "type": "url",
+               "url": "https://www.rasmussen.edu/digitalcontent/"
+            }, {
+               "date_added": "13181679945000000",
+               "guid": "4a900a19-1235-4aae-9460-fc1563c2e085",
+               "id": "74",
+               "name": "DigFluGd",
+               "type": "url",
+               "url": "https://guides.rasmussen.edu/digitalfluency"
+            }, {
+               "date_added": "13181679957000000",
+               "guid": "56b4b296-cd27-4e0e-9f8e-0f692315cb0f",
+               "id": "75",
+               "name": "eTxtBk",
+               "type": "url",
+               "url": "https://rasmussen.libanswers.com/faq/32361"
+            }, {
+               "date_added": "13181681168000000",
+               "guid": "ff52095b-c192-4ab9-9dbb-a18c45ad55ab",
+               "id": "76",
+               "name": "TypQst",
+               "type": "url",
+               "url": "http://rasmussen.libanswers.com/faq/32764"
+            }, {
+               "date_added": "13181680902000000",
+               "guid": "4cad2cdb-0d2d-40fc-bb34-e0fd8910f81b",
+               "id": "77",
+               "name": "AlphGds",
+               "type": "url",
+               "url": "https://guides.rasmussen.edu/?b=g&d=a"
+            }, {
+               "date_added": "13183680485000000",
+               "guid": "3860c9ab-a464-4c31-91e5-8076f128f24d",
+               "id": "78",
+               "name": "Factoring Calculator - MathPapa",
+               "type": "url",
+               "url": "https://www.mathpapa.com/factoring-calculator/"
+            }, {
+               "date_added": "13184716332000000",
+               "guid": "ebec1037-e644-4e74-9bf6-a8cb023cf8a7",
+               "id": "79",
+               "name": "Microsoft Word Online - Work together on Word documents",
+               "type": "url",
+               "url": "https://office.live.com/start/Word.aspx"
+            }, {
+               "date_added": "13184716714000000",
+               "guid": "3536e776-2554-4213-9d0d-afd322a76768",
+               "id": "80",
+               "name": "Flowchart Software | Lucidchart",
+               "type": "url",
+               "url": "https://www.lucidchart.com/pages/examples/flowchart_software"
+            }, {
+               "date_added": "13186029940000000",
+               "guid": "abb31314-6152-421a-b3c7-6d45f7b124da",
+               "id": "81",
+               "name": "Algebra Calculators",
+               "type": "url",
+               "url": "https://www.calculatorsoup.com/calculators/algebra/"
+            }, {
+               "date_added": "13212723239000000",
+               "guid": "e4ebe113-3657-4abf-a10f-56b5ecc2330e",
+               "id": "82",
+               "name": "LinkedIn Learning: Online Courses for Creative, Technology, Business Skills",
+               "type": "url",
+               "url": "https://www.linkedin.com/learning/me?u=26193226"
+            } ],
+            "date_added": "13239907731457927",
+            "date_modified": "0",
+            "guid": "0e7d0236-6cd8-417d-bc4b-36482afdea1f",
+            "id": "70",
+            "name": "School",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13182151880000000",
+               "guid": "189eb933-ad8c-4f23-99e5-dfa65849388e",
+               "id": "84",
+               "name": "Netflix",
+               "type": "url",
+               "url": "https://www.netflix.com/browse"
+            }, {
+               "date_added": "13182151959000000",
+               "guid": "de26c05c-99b2-42c8-9584-51fde2fd2f2b",
+               "id": "85",
+               "name": "Stream TV and Movies Live and On Demand | Hulu",
+               "type": "url",
+               "url": "https://www.hulu.com/watch/73d84ed2-a72c-4603-b544-2166e04e69f6"
+            }, {
+               "date_added": "13183150568000000",
+               "guid": "09123951-3a95-4b60-815a-5282d7420309",
+               "id": "86",
+               "name": "Funimation - Watch Anime Streaming Online",
+               "type": "url",
+               "url": "https://www.funimation.com/"
+            }, {
+               "date_added": "13183443697000000",
+               "guid": "57ce01b7-5689-4461-94ac-8bbb32211665",
+               "id": "87",
+               "name": "Crunchyroll - Watch Popular Anime & Read Manga Online",
+               "type": "url",
+               "url": "https://www.crunchyroll.com/"
+            }, {
+               "date_added": "13181508648000000",
+               "guid": "0c55c42e-aa7c-4657-bef2-ea25ca79ba78",
+               "id": "88",
+               "name": "YouTube",
+               "type": "url",
+               "url": "https://youtube.com/"
+            } ],
+            "date_added": "13239907731458281",
+            "date_modified": "0",
+            "guid": "bf7ed365-5e21-4e7e-8783-1bf65fc745ee",
+            "id": "83",
+            "name": "Watch",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13206636176000000",
+               "guid": "da08d31c-018a-4f0e-814a-6bb35d3ae74b",
+               "id": "90",
+               "name": "Thinkpad T440p Ultimate Buyer's Guide - Devops - OctoPerf",
+               "type": "url",
+               "url": "https://octoperf.com/blog/2018/11/07/thinkpad-t440p-buyers-guide/"
+            }, {
+               "date_added": "13206636621000000",
+               "guid": "0f71523a-528b-40ef-888e-444564801487",
+               "id": "91",
+               "name": "Amazon.com: Amanda 9 Cell 57++ New Battery Replacement for Lenovo ThinkPad T440P T540P W540 W541 L440 L540 45N1152 45N1153 0C52864 11.1V 8960mAH: Electronics",
+               "type": "url",
+               "url": "https://www.amazon.com/Battery-Replacement-ThinkPad-45N1152-45N1153/dp/B075K7QHWH/ref=sr_1_1_sspa?keywords=t440p+battery&qid=1562162811&s=electronics&sr=1-1-spons&psc=1"
+            }, {
+               "date_added": "13206676201000000",
+               "guid": "f9208e1e-89af-4ddf-b3e2-ec511a72a641",
+               "id": "92",
+               "name": "2nd HDD Hard Drive Caddy Adapter for Lenovo Thinkpad T440p T540 W540 optical bay | eBay",
+               "type": "url",
+               "url": "https://www.ebay.com/itm/2nd-HDD-Hard-Drive-Caddy-Adapter-for-Lenovo-Thinkpad-T440p-T540-W540-optical-bay/262756118572?hash=item3d2d7c302c:g:iuwAAOSw4GVYS2ll"
+            } ],
+            "date_added": "13239907731458491",
+            "date_modified": "0",
+            "guid": "abf33b5d-d737-4bdb-9fd9-792baa968f1b",
+            "id": "89",
+            "name": "Laptop Upgrade",
+            "type": "folder"
+         }, {
+            "date_added": "13214285440000000",
+            "guid": "b4d7598b-249c-47ac-96dc-e2e7f046de03",
+            "id": "93",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13214285440000000",
+            "guid": "b8706bcc-1aea-4427-8710-c7f06d9598ca",
+            "id": "94",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13214285440000000",
+            "guid": "f57fe465-a41c-4d2f-ad39-26b02eb4d062",
+            "id": "95",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13214508841000000",
+            "guid": "d4ae1239-0af9-4116-b256-3fb4d3dae227",
+            "id": "96",
+            "name": "Best Note Taking App - Organize Your Notes with Evernote",
+            "type": "url",
+            "url": "https://evernote.com/"
+         }, {
+            "children": [ {
+               "date_added": "13215458141000000",
+               "guid": "1101fb8b-e1f2-4705-a1e3-590c42967ebb",
+               "id": "98",
+               "name": "Top 10 Secure Coding Practices - CERT Secure Coding - Confluence",
+               "type": "url",
+               "url": "https://wiki.sei.cmu.edu/confluence/display/seccode/Top%2B10%2BSecure%2BCoding%2BPractices"
+            }, {
+               "date_added": "13215458229000000",
+               "guid": "ad4ab14f-5730-48b5-9fe6-91c1ecb2744b",
+               "id": "99",
+               "name": "10 Most Common Web Security Vulnerabilities",
+               "type": "url",
+               "url": "https://www.guru99.com/web-security-vulnerabilities.html"
+            }, {
+               "date_added": "13215458141000000",
+               "guid": "010c53dd-c761-44c0-8e57-1437b5794a58",
+               "id": "100",
+               "name": "Top 10 Secure Coding Practices - CERT Secure Coding - Confluence",
+               "type": "url",
+               "url": "https://wiki.sei.cmu.edu/confluence/display/seccode/Top%2B10%2BSecure%2BCoding%2BPractices"
+            }, {
+               "date_added": "13215458229000000",
+               "guid": "798f7f38-b8f4-4850-8748-f91e4f409b3c",
+               "id": "101",
+               "name": "10 Most Common Web Security Vulnerabilities",
+               "type": "url",
+               "url": "https://www.guru99.com/web-security-vulnerabilities.html"
+            }, {
+               "date_added": "13225235758000000",
+               "guid": "b4d8c829-47d2-4702-af72-78ba050be3ef",
+               "id": "102",
+               "name": "Logins and users - Azure SQL Database | Microsoft Docs",
+               "type": "url",
+               "url": "https://docs.microsoft.com/en-us/azure/sql-database/sql-database-manage-logins"
+            } ],
+            "date_added": "13239907731459436",
+            "date_modified": "0",
+            "guid": "059f2a1c-79c5-48b1-b6b3-768bff08de9e",
+            "id": "97",
+            "name": "Secure Programming",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13226988749000000",
+               "guid": "b870d771-db12-44c5-8bee-617f1450dc72",
+               "id": "104",
+               "name": "school-nutrition-brief.pdf",
+               "type": "url",
+               "url": "https://frac.org/wp-content/uploads/school-nutrition-brief.pdf"
+            }, {
+               "date_added": "13226988753000000",
+               "guid": "b5bd74d5-c7af-4657-bbbe-7cbbb7a26e0a",
+               "id": "105",
+               "name": "Wisconsin | Feeding America",
+               "type": "url",
+               "url": "https://www.feedingamerica.org/hunger-in-america/wisconsin"
+            }, {
+               "date_added": "13227551791000000",
+               "guid": "34c5ce15-d950-4271-9d20-6e7f97c9628b",
+               "id": "106",
+               "name": "hunger.pdf",
+               "type": "url",
+               "url": "https://www.apa.org/advocacy/socioeconomic-status/hunger.pdf"
+            }, {
+               "date_added": "13227551992000000",
+               "guid": "3852ce8f-319d-479f-b93e-ca14ae3c0e0e",
+               "id": "107",
+               "name": "Kids Who Suffer Hunger In First Years Lag Behind Their Peers In School : The Salt : NPR",
+               "type": "url",
+               "url": "https://www.npr.org/sections/thesalt/2017/03/23/520997010/kids-who-suffer-hunger-in-first-years-lag-behind-their-peers-in-school"
+            }, {
+               "date_added": "13227551995000000",
+               "guid": "35aae80c-e46a-4d93-9cea-b645acc31ecd",
+               "id": "108",
+               "name": "Hunger: Its Impact on Children’s Health and Mental Health | American Academy of Pediatrics",
+               "type": "url",
+               "url": "https://pediatrics.aappublications.org/content/110/4/e41"
+            }, {
+               "date_added": "13227553164000000",
+               "guid": "f6544652-b6c0-41c9-b9a1-393d0825f224",
+               "id": "109",
+               "name": "e41.full.pdf",
+               "type": "url",
+               "url": "https://pediatrics.aappublications.org/content/pediatrics/110/4/e41.full.pdf"
+            }, {
+               "date_added": "13227555103000000",
+               "guid": "ca3ec2e7-ab70-41eb-890f-d3685beabced",
+               "id": "110",
+               "name": "Brain food: How hunger impacts education - ScienceBlog.com",
+               "type": "url",
+               "url": "https://scienceblog.com/498760/brain-food-hunger-impacts-education/"
+            }, {
+               "date_added": "13238628862000000",
+               "guid": "670755dd-b0f7-45ee-9d9b-71cbae26064d",
+               "id": "111",
+               "name": "Getting started with awesome - Stéphane Caron",
+               "type": "url",
+               "url": "https://scaron.info/blog/getting-started-with-awesome.html"
+            } ],
+            "date_added": "13239907731459718",
+            "date_modified": "0",
+            "guid": "35c12097-86e4-4fa0-a72f-51f81167b8ea",
+            "id": "103",
+            "name": "Comm Project",
+            "type": "folder"
+         }, {
+            "date_added": "13226355609000000",
+            "guid": "53820453-f22c-4323-b6e4-a0753e2d1ef9",
+            "id": "112",
+            "name": "Microsoft Office Home",
+            "type": "url",
+            "url": "https://www.office.com/?auth=2"
+         }, {
+            "date_added": "13231136504000000",
+            "guid": "e35a7397-d680-4de6-9572-59d19253647a",
+            "id": "113",
+            "name": "TriPz_1's Completed Build - Ryzen 5 3600 3.6 GHz 6-Core, GeForce RTX 2060 SUPER 8 GB GAMING X, H510 ATX Mid Tower - PCPartPicker",
+            "type": "url",
+            "url": "https://pcpartpicker.com/b/wzK48d"
+         } ],
+         "date_added": "13239907666949565",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13239907666949567",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13239907666949570",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

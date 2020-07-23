@@ -1,0 +1,5 @@
+048d439ba603aef617f08f3120919b87|file:///home/dev/.config/i3/config|174|1|v|conf
+	bindsym $mod+Shift+s exec --no-startup-id ~/dotfiles/bin/monitor
+	bindsym $mod+Shift+n exec --no-startup-id ~/dotfiles/bin/resolution
+	
+	

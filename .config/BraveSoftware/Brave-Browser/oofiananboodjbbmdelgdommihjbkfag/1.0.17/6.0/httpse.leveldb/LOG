@@ -1,0 +1,7 @@
+2020/07/22-22:54:26.057 4fa Recovering log #3
+2020/07/22-22:54:26.126 4fa Level-0 table #5: started
+2020/07/22-22:54:26.166 4fa Level-0 table #5: 2853472 bytes OK
+2020/07/22-22:54:26.168 4fa Recovering log #12
+2020/07/22-22:54:26.174 4fa Delete type=0 #3
+2020/07/22-22:54:26.174 4fa Delete type=0 #12
+2020/07/22-22:54:26.174 4fa Delete type=3 #2

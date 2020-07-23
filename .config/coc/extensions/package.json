@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "coc-angular": ">=0.1000.4",
+    "coc-clangd": ">=0.4.11",
+    "coc-cmake": ">=0.0.1",
+    "coc-css": ">=1.2.4",
+    "coc-emmet": ">=1.1.6",
+    "coc-flutter": ">=1.5.1",
+    "coc-git": ">=1.8.1",
+    "coc-go": ">=0.9.2",
+    "coc-html": ">=1.2.4",
+    "coc-java": ">=1.4.11",
+    "coc-jedi": ">=0.14.0",
+    "coc-json": ">=1.2.6",
+    "coc-omnisharp": ">=0.0.26",
+    "coc-pyls": ">=1.0.6",
+    "coc-python": ">=1.2.12",
+    "coc-rust-analyzer": ">=0.7.13",
+    "coc-snippets": ">=2.1.28",
+    "coc-solargraph": ">=1.1.6",
+    "coc-tslint": ">=1.0.17",
+    "coc-tsserver": ">=1.5.3",
+    "coc-xml": ">=1.11.1",
+    "coc-yaml": ">=1.0.4",
+    "coc-yank": ">=1.1.4"
+  }
+}
