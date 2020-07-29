@@ -1,0 +1,77 @@
+[FileDialogSize]
+Height 1080=1006
+Width 1920=884
+
+[KFileDialog Settings]
+Recent Files[$e]=file:///run/media/dev/My Book/Rodney/Pictures/Wallpapers/1080x1920-iPhone-6-plus-25.jpg,file:///run/media/dev/My Book/Rodney/Pictures/Wallpapers/fsociety-mr-robot-mr-robot-tv-series-wallpaper-preview.jpg,file:///run/media/dev/My Book/Rodney/Pictures/Wallpapers/1080x1920-iPhone-6-plus-25.jpg
+Recent URLs[$e]=file:///run/media/dev/My Book/Rodney/Pictures/Wallpapers/
+detailViewIconSize=0
+iconViewIconSize=43
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_msm_timedate.desktop,1 services_org.kde.konsole.desktop,1 services_kcm_kscreen.desktop
+pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaTransientsConfig]
+PreloadWeight=0
+
+[PlasmaViews][Panel 1][Defaults]
+thickness=18
+
+[PlasmaViews][Panel 1][Horizontal1024]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1152]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1200]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1280]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1366]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1440]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1600]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1680]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1900]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1916]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1920]
+thickness=18
+
+[PlasmaViews][Panel 1][Horizontal2048]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal800]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal864]
+thickness=45
+
+[PlasmaViews][Panel 26][Defaults]
+thickness=24
+
+[PlasmaViews][Panel 26][Horizontal1920]
+thickness=24
+
+[PlasmaViews][Panel 31][Defaults]
+thickness=30
+
+[ScreenConnectors]
+0=HDMI-A-0
+1=DisplayPort-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js

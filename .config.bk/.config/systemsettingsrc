@@ -1,0 +1,17 @@
+[FileDialogSize]
+Height 1080=1020
+Width 1920=884
+
+[KFileDialog Settings]
+Recent Files[$e]=kde-i3.sh,file:$HOME/Repos/fonts/fonts/FontAwesome.otf,file:$HOME/Repos/fonts/fonts/fontawesome-webfont.ttf,file:$HOME/Repos/fonts/fonts/FiraCode-Retina.otf,file:$HOME/Repos/fonts/fonts/FiraCode-Regular.otf,file:$HOME/Repos/fonts/fonts/FiraCode-Medium.otf,file:$HOME/Repos/fonts/fonts/FiraCode-Light.otf,file:$HOME/Repos/fonts/fonts/FiraCode-Bold.otf,file:$HOME/Scripts/kde-i3.sh
+Recent URLs[$e]=file:$HOME/Repos/fonts/fonts/
+iconViewIconSize=43
+
+[MainWindow]
+Height 1080=700
+Height 1920=700
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABAAAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1080=1024
+Width 1920=1024

@@ -1,4 +1,4 @@
-source ~/.config/zsh/.zprofile
+
 # Basic zsh setting & themes
 PATH=$PATH:$HOME/.bin
 setopt no_list_ambiguous
@@ -29,7 +29,6 @@ alias s='startx'
 alias pac='sudo pacman'
 alias kill='killall -q'
 ## Terminal maintenance
-alias reset='cd ~; clear; source ~/.config/zsh/.zprofile'
 alias fetch='clear && neofetch'
 ## Changing Settings
 alias w='feh --bg-fill --randomize /home/dev/pictures/wallpapers'

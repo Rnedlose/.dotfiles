@@ -1,0 +1,24 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10c6d4ee2d000159596941100000015140008
+clientId2=10c6d4ee2d000159604445300000014440004
+clientId3=10c6d4ee2d000159604445300000014440005
+count=3
+discardCommand2[$e]=rm,$HOME/.config/session/yakuake_10c6d4ee2d000159604445300000014440004_1596044780_50922
+program1=/usr/bin/msm_kde_notifier
+program2=/usr/bin/yakuake
+program3=pulseaudio
+restartCommand1=/usr/bin/msm_kde_notifier,-session,10c6d4ee2d000159596941100000015140008_1596044780_50913
+restartCommand2=/usr/bin/yakuake,-session,10c6d4ee2d000159604445300000014440004_1596044780_50922
+restartCommand3=
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+userId1=dev
+userId2=dev
+userId3=dev
